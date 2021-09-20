@@ -2,7 +2,7 @@
 layout: doc
 h3InToc: true
 tz_title: Citrix Web App and Api Protection service overview
-tz_products: citrix-workspace;
+tz_products: citrix-networking;
 contributedBy: Matt Brooks
 specialThanksTo: Brian Olsen
 description: See how Citrix Web App and API Protection (CWAAP) service can provide effective security against BOTs, DDoS, zero-day exploits, and other attacks.
