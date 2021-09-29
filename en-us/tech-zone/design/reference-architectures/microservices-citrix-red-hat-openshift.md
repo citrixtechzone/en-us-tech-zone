@@ -116,7 +116,7 @@ Users can connect to the web service securely using the Citrix Workspace app. Al
 
 *  Microsoft Azure and Amazon AWS are the public IaaS used to host the RHOS Cluster and microservices.
 
-The next sections provide greater detail into specific design decisions for CompanyAs microservices-based application eelivery with Citrix and Red Hat OpenShift.
+The next sections provide greater detail into specific design decisions for CompanyAs microservices-based application delivery with Citrix and Red Hat OpenShift.
 
 ## User Layer
 
