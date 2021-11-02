@@ -6,32 +6,45 @@ description: Join forces with Master Class and TIPs experts for a quarterly webi
 
 [![Tech Zone Live Banner](/en-us/tech-zone/media/tech-zone-live_tech-zone-live_banner.png)](https://www.citrix.com/events/2021/tech-zone-live.html)
 
-Tech Zone Live returns on July 28, 2021, so now's the time to [register](https://www.citrix.com/events/2021/tech-zone-live.html).
+Tech Zone Live returns on November 17, 2021, so now's the time to [register](https://www.citrix.com/events/2021/tech-zone-live.html).
 
-The Tech Zone Live event has something for everyone.  We've broken down the next event into two main topics:
+The Tech Zone Live event has something for everyone.  We've broken down the next event into three main topics to deep dive into the Citrix Launchpad events:
 
-1.  Moving to the cloud to adapt a hybrid work environment
-2.  Protecting your company from ransomware attacks
+1.  Cloud
+2.  Security
+3.  Work
 
-In each hour long segment, we break it down into three distinct sub-sessions covering different aspects
+In each segment, we break it down into two distinct sub-sessions covering different aspects
 
-In Technical Session 1, **Moving to the cloud to adapt to a hybrid work environment**, we will:
+In Technical Session 1, **Cloud**, we will:
 
-*  Show you why moving to Citrix Workspace is right for you.
-*  Debunk any cloud myths that have stopped you from adopting a hybrid, flexible work environment.
-*  Learn how you can use Citrix Virtual Apps and Desktop service as a business continuity solution to scale up and down when needed.
+*  Deep dive into the new Citrix App Delivery and Security Service
+*  Discuss how to easily move on-prem images to cloud with Image Portability & PVS on Azure
 
-In Technical Session 2, **Protecting your company from ransomware attacks**, we will:
+In Technical Session 2, **Security**, we will:
 
-*  Talk about what is ransomware, why you should care, and what you can do about it.
-*  Discuss some of the tools you can use to proactively protect your environment from ransomware attacks.
-*  Explain how to securely deliver SaaS & web applications and let your users browse the internet without exposing your data to attackers.
+*  Talk about our latest cloud-delivered, zero-trust service, Citrix Secure Private Access
+*  Discuss how Citrix + Google enable a Zero-Trust environment that minimizes attack surface and reduces threats
 
-Join us on July 28, 2021 at [Tech Zone Live](https://www.citrix.com/events/2021/tech-zone-live.html)
+In Technical Session 3, **Work**, we will:
+
+*  Review all the latest features and functionality of Citrix Workspace
+*  Discuss how Citrix + Google provide solutions for Contact centers
+
+Join us on Nov 17 2021 at [Tech Zone Live](https://www.citrix.com/events/2021/tech-zone-live.html)
 
 ## Archive
 
 If you missed an earlier Tech Zone Live event, you can still watch each session on-demand.
+
+### July 2021
+
+[Watch July 2021 On-Demand Now](https://www.citrix.com/products/citrix-workspace/form/tech-zone-live-jul-od-webinar/).
+
+|Session|Segment 1|Segment 2|Segment 3|
+|---|---|---|---|
+|Moving to cloud to adapt a hybrid work environment|[![2021-Q3-E1](/en-us/tech-zone/media/tech-zone-live_tech-zone-live_2021q3e01.png)](https://www.citrix.com/products/citrix-workspace/form/tech-zone-live-jul-od-webinar/)Why Citrix Workspace is Right for you with Sasa Petrovic|[![2021-Q3-E2](/en-us/tech-zone/media/tech-zone-live_tech-zone-live_2021q3e02.png)](https://www.citrix.com/products/citrix-workspace/form/tech-zone-live-jul-od-webinar/)Debunking Cloud Myths with Dan Morgan|[![2021-Q3-E3](/en-us/tech-zone/media/tech-zone-live_tech-zone-live_2021q3e03.png)](https://www.citrix.com/products/citrix-workspace/form/tech-zone-live-jul-od-webinar/)DaaS for Business Continuity with Kireeti Valicherla|
+|How to protect your company from ransomware attacks|[![2021-Q3-E4](/en-us/tech-zone/media/tech-zone-live_tech-zone-live_2021q3e04.png)](https://www.citrix.com/products/citrix-workspace/form/tech-zone-live-jul-od-webinar/)Ransomware Overview with Fritz Voelker|[![2021-Q3-E5](/en-us/tech-zone/media/tech-zone-live_tech-zone-live_2021q3e05.png)](https://www.citrix.com/products/citrix-workspace/form/tech-zone-live-jul-od-webinar/)Proactively protect your environment from ransomware with Landon Fraley|[![2021-Q3-E6](/en-us/tech-zone/media/tech-zone-live_tech-zone-live_2021q3e06.png)](https://www.citrix.com/products/citrix-workspace/form/tech-zone-live-jul-od-webinar/)Securing SaaS and Web Apps with Michael Gustafsson|
 
 ### May 2021
 
